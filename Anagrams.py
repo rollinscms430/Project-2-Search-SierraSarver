@@ -2,7 +2,7 @@
 # Sierra Sarver 2/26/17
 
 """Implement a dictionary to keep track of the anagrams
-   or words that contain the same set of letters"""
+   or words that contain the same set of letters."""
 
 # Open text file
 file = open('words.txt')

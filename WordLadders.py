@@ -5,7 +5,7 @@ def ladder(start_word, end_word):
     
     """Implement a breadth-first search technique to generate a chain of
        words that only differ in one letter until a start word and end word
-       are connected"""
+       are connected."""
     
     # Open file
     file = open('words.txt')
